@@ -1,0 +1,101 @@
+review,true_label,clean,polarity,sentiment
+"Wonderful experience, the phone is reliable and beautifully made.",positive,wonderful experience phone reliable beautifully made,1.0,positive
+"It is an average camera, does the job.",neutral,average camera job,0.0,neutral
+"Very poor service and a defective headphones. I hate it, complete waste of money.",negative,poor service defective headphone hate complete waste money,-1.0,negative
+Worst purchase ever. The camera is useless and I am totally disappointed.,negative,worst purchase ever camera useless totally disappointed,-1.0,negative
+"Decent headphones for the price, neither good nor bad.",neutral,decent headphone price neither good bad,0.0,neutral
+"I absolutely love this backpack, it works perfectly and the quality is excellent!",positive,absolutely love backpack work perfectly quality excellent,1.0,positive
+"Terrible camera, it broke after two days and the quality is awful.",negative,terrible camera broke two day quality awful,-1.0,negative
+"Fantastic laptop! Great value, fast delivery and amazing customer service.",positive,fantastic laptop great value fast delivery amazing customer service,1.0,positive
+"I absolutely love this phone, it works perfectly and the quality is excellent!",positive,absolutely love phone work perfectly quality excellent,1.0,positive
+"Very poor service and a defective phone. I hate it, complete waste of money.",negative,poor service defective phone hate complete waste money,-1.0,negative
+"Disappointing and overpriced backpack, arrived late and damaged.",negative,disappointing overpriced backpack arrived late damaged,-1.0,negative
+"Very happy with the camera. Highly recommend, it exceeded my expectations.",positive,happy camera highly recommend exceeded expectation,1.0,positive
+Worst purchase ever. The phone is useless and I am totally disappointed.,negative,worst purchase ever phone useless totally disappointed,-1.0,negative
+"I absolutely love this laptop, it works perfectly and the quality is excellent!",positive,absolutely love laptop work perfectly quality excellent,1.0,positive
+"Decent blender for the price, neither good nor bad.",neutral,decent blender price neither good bad,0.0,neutral
+Worst purchase ever. The jacket is useless and I am totally disappointed.,negative,worst purchase ever jacket useless totally disappointed,-1.0,negative
+"Terrible phone, it broke after two days and the quality is awful.",negative,terrible phone broke two day quality awful,-1.0,negative
+The blender arrived on Tuesday in a standard box.,neutral,blender arrived tuesday standard box,0.0,neutral
+"Disappointing and overpriced blender, arrived late and damaged.",negative,disappointing overpriced blender arrived late damaged,-1.0,negative
+"Disappointing and overpriced laptop, arrived late and damaged.",negative,disappointing overpriced laptop arrived late damaged,-1.0,negative
+"Very happy with the laptop. Highly recommend, it exceeded my expectations.",positive,happy laptop highly recommend exceeded expectation,1.0,positive
+"Fantastic phone! Great value, fast delivery and amazing customer service.",positive,fantastic phone great value fast delivery amazing customer service,1.0,positive
+"Fantastic laptop! Great value, fast delivery and amazing customer service.",positive,fantastic laptop great value fast delivery amazing customer service,1.0,positive
+"Very poor service and a defective phone. I hate it, complete waste of money.",negative,poor service defective phone hate complete waste money,-1.0,negative
+"Terrible blender, it broke after two days and the quality is awful.",negative,terrible blender broke two day quality awful,-1.0,negative
+"Terrible camera, it broke after two days and the quality is awful.",negative,terrible camera broke two day quality awful,-1.0,negative
+Worst purchase ever. The camera is useless and I am totally disappointed.,negative,worst purchase ever camera useless totally disappointed,-1.0,negative
+"Fantastic laptop! Great value, fast delivery and amazing customer service.",positive,fantastic laptop great value fast delivery amazing customer service,1.0,positive
+"Terrible jacket, it broke after two days and the quality is awful.",negative,terrible jacket broke two day quality awful,-1.0,negative
+"Fantastic blender! Great value, fast delivery and amazing customer service.",positive,fantastic blender great value fast delivery amazing customer service,1.0,positive
+The phone arrived on Tuesday in a standard box.,neutral,phone arrived tuesday standard box,0.0,neutral
+"Disappointing and overpriced phone, arrived late and damaged.",negative,disappointing overpriced phone arrived late damaged,-1.0,negative
+"Very poor service and a defective phone. I hate it, complete waste of money.",negative,poor service defective phone hate complete waste money,-1.0,negative
+The jacket arrived on Tuesday in a standard box.,neutral,jacket arrived tuesday standard box,0.0,neutral
+"Wonderful experience, the camera is reliable and beautifully made.",positive,wonderful experience camera reliable beautifully made,1.0,positive
+"Decent camera for the price, neither good nor bad.",neutral,decent camera price neither good bad,0.0,neutral
+Worst purchase ever. The laptop is useless and I am totally disappointed.,negative,worst purchase ever laptop useless totally disappointed,-1.0,negative
+The laptop arrived on Tuesday in a standard box.,neutral,laptop arrived tuesday standard box,0.0,neutral
+"I absolutely love this keyboard, it works perfectly and the quality is excellent!",positive,absolutely love keyboard work perfectly quality excellent,1.0,positive
+"Disappointing and overpriced backpack, arrived late and damaged.",negative,disappointing overpriced backpack arrived late damaged,-1.0,negative
+"It is an average jacket, does the job.",neutral,average jacket job,0.0,neutral
+Worst purchase ever. The laptop is useless and I am totally disappointed.,negative,worst purchase ever laptop useless totally disappointed,-1.0,negative
+"The headphones is okay, nothing special.",neutral,headphone okay nothing special,0.0,neutral
+"The headphones is okay, nothing special.",neutral,headphone okay nothing special,0.0,neutral
+"I absolutely love this blender, it works perfectly and the quality is excellent!",positive,absolutely love blender work perfectly quality excellent,1.0,positive
+"Very happy with the laptop. Highly recommend, it exceeded my expectations.",positive,happy laptop highly recommend exceeded expectation,1.0,positive
+Worst purchase ever. The blender is useless and I am totally disappointed.,negative,worst purchase ever blender useless totally disappointed,-1.0,negative
+"Very happy with the keyboard. Highly recommend, it exceeded my expectations.",positive,happy keyboard highly recommend exceeded expectation,1.0,positive
+"Wonderful experience, the laptop is reliable and beautifully made.",positive,wonderful experience laptop reliable beautifully made,1.0,positive
+"Disappointing and overpriced keyboard, arrived late and damaged.",negative,disappointing overpriced keyboard arrived late damaged,-1.0,negative
+"Decent keyboard for the price, neither good nor bad.",neutral,decent keyboard price neither good bad,0.0,neutral
+"The headphones is okay, nothing special.",neutral,headphone okay nothing special,0.0,neutral
+"Wonderful experience, the phone is reliable and beautifully made.",positive,wonderful experience phone reliable beautifully made,1.0,positive
+"Wonderful experience, the phone is reliable and beautifully made.",positive,wonderful experience phone reliable beautifully made,1.0,positive
+"Very poor service and a defective keyboard. I hate it, complete waste of money.",negative,poor service defective keyboard hate complete waste money,-1.0,negative
+"I absolutely love this laptop, it works perfectly and the quality is excellent!",positive,absolutely love laptop work perfectly quality excellent,1.0,positive
+"I absolutely love this jacket, it works perfectly and the quality is excellent!",positive,absolutely love jacket work perfectly quality excellent,1.0,positive
+"Very poor service and a defective camera. I hate it, complete waste of money.",negative,poor service defective camera hate complete waste money,-1.0,negative
+"Disappointing and overpriced blender, arrived late and damaged.",negative,disappointing overpriced blender arrived late damaged,-1.0,negative
+"Fantastic camera! Great value, fast delivery and amazing customer service.",positive,fantastic camera great value fast delivery amazing customer service,1.0,positive
+"Very happy with the camera. Highly recommend, it exceeded my expectations.",positive,happy camera highly recommend exceeded expectation,1.0,positive
+"Very poor service and a defective backpack. I hate it, complete waste of money.",negative,poor service defective backpack hate complete waste money,-1.0,negative
+"Very happy with the backpack. Highly recommend, it exceeded my expectations.",positive,happy backpack highly recommend exceeded expectation,1.0,positive
+"I absolutely love this phone, it works perfectly and the quality is excellent!",positive,absolutely love phone work perfectly quality excellent,1.0,positive
+Worst purchase ever. The laptop is useless and I am totally disappointed.,negative,worst purchase ever laptop useless totally disappointed,-1.0,negative
+"Fantastic camera! Great value, fast delivery and amazing customer service.",positive,fantastic camera great value fast delivery amazing customer service,1.0,positive
+"Very happy with the phone. Highly recommend, it exceeded my expectations.",positive,happy phone highly recommend exceeded expectation,1.0,positive
+"I absolutely love this jacket, it works perfectly and the quality is excellent!",positive,absolutely love jacket work perfectly quality excellent,1.0,positive
+"Wonderful experience, the camera is reliable and beautifully made.",positive,wonderful experience camera reliable beautifully made,1.0,positive
+"Wonderful experience, the keyboard is reliable and beautifully made.",positive,wonderful experience keyboard reliable beautifully made,1.0,positive
+"The jacket is okay, nothing special.",neutral,jacket okay nothing special,0.0,neutral
+"Very poor service and a defective backpack. I hate it, complete waste of money.",negative,poor service defective backpack hate complete waste money,-1.0,negative
+"Terrible blender, it broke after two days and the quality is awful.",negative,terrible blender broke two day quality awful,-1.0,negative
+Worst purchase ever. The backpack is useless and I am totally disappointed.,negative,worst purchase ever backpack useless totally disappointed,-1.0,negative
+"I absolutely love this jacket, it works perfectly and the quality is excellent!",positive,absolutely love jacket work perfectly quality excellent,1.0,positive
+Worst purchase ever. The laptop is useless and I am totally disappointed.,negative,worst purchase ever laptop useless totally disappointed,-1.0,negative
+Worst purchase ever. The jacket is useless and I am totally disappointed.,negative,worst purchase ever jacket useless totally disappointed,-1.0,negative
+"Very happy with the headphones. Highly recommend, it exceeded my expectations.",positive,happy headphone highly recommend exceeded expectation,1.0,positive
+The blender arrived on Tuesday in a standard box.,neutral,blender arrived tuesday standard box,0.0,neutral
+"Decent jacket for the price, neither good nor bad.",neutral,decent jacket price neither good bad,0.0,neutral
+"Disappointing and overpriced headphones, arrived late and damaged.",negative,disappointing overpriced headphone arrived late damaged,-1.0,negative
+"Very happy with the blender. Highly recommend, it exceeded my expectations.",positive,happy blender highly recommend exceeded expectation,1.0,positive
+"It is an average keyboard, does the job.",neutral,average keyboard job,0.0,neutral
+"It is an average laptop, does the job.",neutral,average laptop job,0.0,neutral
+Worst purchase ever. The headphones is useless and I am totally disappointed.,negative,worst purchase ever headphone useless totally disappointed,-1.0,negative
+The headphones arrived on Tuesday in a standard box.,neutral,headphone arrived tuesday standard box,0.0,neutral
+The jacket arrived on Tuesday in a standard box.,neutral,jacket arrived tuesday standard box,0.0,neutral
+"Very happy with the blender. Highly recommend, it exceeded my expectations.",positive,happy blender highly recommend exceeded expectation,1.0,positive
+"Terrible laptop, it broke after two days and the quality is awful.",negative,terrible laptop broke two day quality awful,-1.0,negative
+"Disappointing and overpriced camera, arrived late and damaged.",negative,disappointing overpriced camera arrived late damaged,-1.0,negative
+"Very poor service and a defective blender. I hate it, complete waste of money.",negative,poor service defective blender hate complete waste money,-1.0,negative
+"Very happy with the camera. Highly recommend, it exceeded my expectations.",positive,happy camera highly recommend exceeded expectation,1.0,positive
+"Disappointing and overpriced phone, arrived late and damaged.",negative,disappointing overpriced phone arrived late damaged,-1.0,negative
+"Very happy with the camera. Highly recommend, it exceeded my expectations.",positive,happy camera highly recommend exceeded expectation,1.0,positive
+"Disappointing and overpriced keyboard, arrived late and damaged.",negative,disappointing overpriced keyboard arrived late damaged,-1.0,negative
+"Fantastic keyboard! Great value, fast delivery and amazing customer service.",positive,fantastic keyboard great value fast delivery amazing customer service,1.0,positive
+"Very happy with the backpack. Highly recommend, it exceeded my expectations.",positive,happy backpack highly recommend exceeded expectation,1.0,positive
+"I absolutely love this backpack, it works perfectly and the quality is excellent!",positive,absolutely love backpack work perfectly quality excellent,1.0,positive
+"I absolutely love this backpack, it works perfectly and the quality is excellent!",positive,absolutely love backpack work perfectly quality excellent,1.0,positive
+"Disappointing and overpriced backpack, arrived late and damaged.",negative,disappointing overpriced backpack arrived late damaged,-1.0,negative

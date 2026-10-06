@@ -1,0 +1,6 @@
+,Baseline,Baseline,Baseline,Baseline,Tuned,Tuned,Tuned,Tuned
+,Accuracy,Precision,Recall,F1,Accuracy,Precision,Recall,F1
+Model,,,,,,,,
+Logistic Regression,0.982,0.986,0.986,0.986,0.974,0.973,0.986,0.979
+Decision Tree,0.912,0.956,0.903,0.929,0.921,0.957,0.917,0.936
+Random Forest,0.956,0.959,0.972,0.966,0.947,0.958,0.958,0.958

@@ -1,0 +1,589 @@
+order_id,customer_name,age,gender,city,order_date,product_category,quantity,unit_price,total_amount
+1375,Eva Brown,26,Female,New York,2024-10-05,Electronics,4,92.63499999999999,370.54
+1453,Carla Diaz,47,Female,Paris,2024-07-01,Electronics,3,413.92,1241.76
+1107,Carla Diaz,59,Male,Paris,2024-02-28,Home,4,212.49,849.96
+1418,Alice Smith,20,Male,Berlin,2024-04-14,Clothing,3,92.63499999999999,277.9
+1248,Bob Jones,33,Female,New York,2024-10-01,Home,4,193.73,774.92
+1396,Dan Lee,66,Female,London,2024-04-16,Electronics,2,558.27,1116.54
+1345,Grace Kim,57,Male,Paris,2024-06-11,Clothing,3,105.1,315.3
+1540,Frank Wu,33,Male,Berlin,2024-06-03,Home,5,22.87,114.35
+1599,Eva Brown,63,Female,New York,2024-09-25,Home,1,140.06,140.06
+1067,Frank Wu,34,Male,New York,2024-10-04,Clothing,1,85.48,85.48
+1483,Bob Jones,57,Male,London,2024-10-14,Home,3,158.79,476.37
+1480,Grace Kim,55,Male,Paris,2024-10-05,Clothing,4,41.7,166.8
+1171,Henry Ford,37,Female,New York,2024-12-02,Electronics,1,410.79,410.79
+1321,Bob Jones,50,Male,Berlin,2024-12-13,Electronics,5,419.33,2096.65
+1297,Henry Ford,34,Female,Berlin,2024-11-10,Books,2,92.63499999999999,185.27
+1500,Alice Smith,21,Female,New York,2024-04-07,Electronics,5,556.22,2781.1
+1068,Bob Jones,65,Female,New York,2024-01-12,Electronics,4,333.5,1334.0
+1593,Eva Brown,60,Female,Paris,2024-03-21,Sports,1,31.32,31.32
+1030,Frank Wu,36,Female,Berlin,2024-05-09,Books,1,31.52,31.52
+1382,Henry Ford,51,Female,Paris,2024-08-09,Sports,4,17.92,71.68
+1451,Alice Smith,39,Female,Paris,2024-07-20,Sports,1,68.21,68.21
+1142,Dan Lee,61,Male,London,2024-11-15,Clothing,3,92.14,276.42
+1158,Frank Wu,65,Female,Paris,2024-08-29,Books,3,33.09,99.27
+1432,Bob Jones,33,Female,New York,2024-12-08,Sports,5,33.41,167.05
+1018,Eva Brown,45,Female,Paris,2024-02-19,Sports,4,63.98,255.92
+1370,Henry Ford,49,Male,Berlin,2024-01-08,Clothing,5,29.37,146.85
+1001,Frank Wu,49,Female,Paris,2024-06-19,Home,1,50.95,50.95
+1473,Henry Ford,42,Male,Berlin,2024-06-17,Books,3,35.18,105.54
+1013,Frank Wu,46,Female,Paris,2024-06-29,Home,5,104.53,522.65
+1251,Frank Wu,25,Female,New York,2024-04-20,Books,5,12.82,64.1
+1507,Grace Kim,56,Female,London,2024-02-26,Clothing,3,33.16,99.48
+1365,Frank Wu,21,Female,London,2024-12-03,Books,4,30.96,123.84
+1221,Carla Diaz,42,Male,London,2024-08-28,Books,2,19.91,39.82
+1209,Bob Jones,32,Male,Paris,2024-08-18,Home,3,46.65,139.95
+1080,Dan Lee,45,Female,New York,2024-05-20,Sports,2,106.24,212.48
+1596,Carla Diaz,67,Female,Berlin,2024-12-11,Books,4,16.9,67.6
+1322,Grace Kim,49,Female,New York,2024-07-31,Home,4,246.67,986.68
+1544,Alice Smith,32,Male,New York,2024-08-02,Sports,2,30.52,61.04
+1250,Carla Diaz,40,Female,Paris,2024-03-03,Electronics,2,408.13,816.26
+1108,Henry Ford,59,Female,Paris,2024-01-14,Books,1,11.41,11.41
+1152,Bob Jones,58,Female,Paris,2024-01-27,Sports,5,132.08,660.4
+1120,Eva Brown,68,Female,New York,2024-05-23,Books,3,29.0,87.0
+1235,Eva Brown,29,Female,Paris,2024-11-04,Home,3,68.08,204.24
+1537,Bob Jones,45,Female,Berlin,2024-10-26,Electronics,3,690.88,2072.64
+1505,Henry Ford,60,Male,New York,2024-02-05,Books,3,92.63499999999999,277.9
+1227,Dan Lee,23,Male,Paris,2024-12-12,Books,1,39.85,39.85
+1176,Eva Brown,47,Female,Paris,2024-12-06,Home,1,118.42,118.42
+1165,Dan Lee,23,Female,Paris,2024-09-27,Sports,3,130.46,391.38
+1311,Dan Lee,54,Female,London,2024-09-03,Home,5,170.44,852.2
+1488,Dan Lee,31,Female,New York,2024-12-07,Home,3,203.82,611.46
+1563,Grace Kim,62,Male,New York,2024-02-13,Electronics,1,463.46,463.46
+1055,Dan Lee,53,Male,Berlin,2024-11-06,Electronics,3,437.45,1312.35
+1146,Frank Wu,37,Male,London,2024-02-27,Electronics,4,689.11,2756.44
+1437,Frank Wu,60,Male,New York,2024-04-08,Sports,2,64.84,129.68
+1084,Carla Diaz,18,Female,Paris,2024-08-13,Home,5,106.56,532.8
+1389,Frank Wu,33,Female,Paris,2024-08-01,Electronics,2,447.47,894.94
+1582,Bob Jones,38,Female,Paris,2024-12-01,Electronics,3,664.46,1993.38
+1511,Eva Brown,66,Male,Paris,2024-01-25,Home,1,23.81,23.81
+1440,Henry Ford,36,Female,Paris,2024-03-22,Sports,4,15.27,61.08
+1398,Alice Smith,47,Female,London,2024-07-27,Clothing,3,83.61,250.83
+1495,Eva Brown,59,Female,Paris,2024-10-19,Books,3,19.09,57.27
+1350,Bob Jones,26,Female,New York,2024-04-29,Books,5,20.84,104.2
+1333,Grace Kim,20,Male,New York,2024-05-25,Sports,2,76.5,153.0
+1307,Bob Jones,67,Male,New York,2024-02-20,Books,3,11.65,34.95
+1523,Bob Jones,38,Female,Paris,2024-08-26,Sports,2,124.5,249.0
+1032,Eva Brown,38,Male,Paris,2024-08-02,Electronics,3,532.14,1596.42
+1172,Dan Lee,61,Male,Berlin,2024-09-05,Home,3,47.42,142.26
+1404,Dan Lee,45,Male,Paris,2024-06-14,Books,3,17.06,51.18
+1161,Henry Ford,44,Male,New York,2024-12-26,Home,1,53.38,53.38
+1569,Bob Jones,32,Male,New York,2024-03-05,Books,5,92.63499999999999,463.17
+1300,Frank Wu,45,Female,London,2024-11-29,Clothing,3,65.14,195.42
+1016,Eva Brown,63,Male,New York,2024-03-26,Books,3,20.14,60.42
+1199,Carla Diaz,43,Female,New York,2024-04-12,Sports,1,99.6,99.6
+1462,Grace Kim,48,Female,New York,2024-01-12,Home,4,30.9,123.6
+1329,Henry Ford,49,Male,Paris,2024-04-26,Books,1,33.67,33.67
+1457,Alice Smith,33,Male,Paris,2024-08-26,Home,4,233.99,935.96
+1249,Dan Lee,45,Female,New York,2024-08-28,Electronics,4,388.58,1554.32
+1344,Eva Brown,51,Male,New York,2024-05-12,Sports,4,117.61,470.44
+1347,Bob Jones,60,Male,Berlin,2024-12-07,Sports,1,99.91,99.91
+1129,Grace Kim,29,Male,London,2024-12-13,Home,2,204.22,408.44
+1225,Grace Kim,24,Female,Paris,2024-06-21,Clothing,5,53.32,266.6
+1128,Eva Brown,27,Male,London,2024-03-07,Books,5,9.83,49.15
+1559,Dan Lee,35,Female,New York,2024-03-17,Sports,5,100.31,501.55
+1040,Dan Lee,57,Female,London,2024-06-04,Electronics,3,92.63499999999999,277.9
+1542,Alice Smith,47,Male,London,2024-07-18,Electronics,2,436.13,872.26
+1065,Eva Brown,48,Female,New York,2024-05-27,Clothing,3,58.95,176.85
+1072,Bob Jones,21,Female,Paris,2024-08-08,Books,3,19.65,58.95
+1532,Alice Smith,38,Male,London,2024-04-07,Electronics,4,367.89,1471.56
+1123,Eva Brown,45,Female,London,2024-06-07,Books,1,9.65,9.65
+1429,Carla Diaz,32,Female,New York,2024-12-23,Home,4,138.7,554.8
+1116,Frank Wu,45,Female,Paris,2024-04-13,Electronics,4,228.66,914.64
+1455,Grace Kim,35,Female,New York,2024-09-07,Books,3,15.3,45.9
+1441,Alice Smith,45,Female,New York,2024-08-30,Clothing,5,26.77,133.85
+1077,Grace Kim,40,Female,New York,2024-11-23,Clothing,3,60.98,182.94
+1288,Bob Jones,25,Female,New York,2024-04-21,Books,4,14.13,56.52
+1391,Eva Brown,65,Male,London,2024-05-29,Electronics,2,643.35,1286.7
+1393,Bob Jones,22,Female,London,2024-03-20,Books,3,18.41,55.23
+1130,Carla Diaz,18,Female,New York,2024-02-02,Books,2,37.69,75.38
+1510,Henry Ford,65,Male,New York,2024-04-12,Sports,1,15.66,15.66
+1281,Grace Kim,44,Female,London,2024-02-03,Books,3,25.01,75.03
+1003,Henry Ford,59,Female,Paris,2024-04-04,Books,5,24.46,122.3
+1428,Grace Kim,22,Male,Paris,2024-04-15,Electronics,2,400.31,800.62
+1222,Grace Kim,53,Male,Paris,2024-08-28,Home,5,55.33,276.65
+1426,Dan Lee,34,Male,Berlin,2024-11-16,Sports,4,55.6,222.4
+1183,Alice Smith,38,Male,Berlin,2024-10-01,Home,3,92.92,278.76
+1268,Bob Jones,19,Female,New York,2024-04-30,Home,3,104.32,312.96
+1239,Alice Smith,29,Female,New York,2024-06-13,Home,4,212.35,849.4
+1439,Grace Kim,64,Female,London,2024-11-18,Clothing,3,58.74,176.22
+1089,Dan Lee,43,Male,Paris,2024-06-13,Sports,1,155.34,155.34
+1062,Dan Lee,64,Female,London,2024-11-05,Clothing,4,27.3,109.2
+1212,Carla Diaz,49,Female,Paris,2024-02-25,Home,1,32.78,32.78
+1484,Dan Lee,69,Male,Paris,2024-09-05,Books,4,39.51,158.04
+1438,Henry Ford,65,Male,New York,2024-06-22,Electronics,3,366.77,1100.31
+1226,Eva Brown,31,Male,Paris,2024-08-12,Sports,3,92.63499999999999,277.9
+1157,Henry Ford,37,Male,Paris,2024-07-13,Books,3,22.67,68.01
+1379,Dan Lee,38,Male,London,2024-06-15,Clothing,1,53.36,53.36
+1109,Bob Jones,50,Female,Paris,2024-12-09,Home,1,249.79,249.79
+1134,Frank Wu,37,Male,Paris,2024-02-23,Home,4,29.23,116.92
+1201,Henry Ford,19,Female,Berlin,2024-01-23,Sports,4,161.26,645.04
+1383,Henry Ford,64,Female,New York,2024-08-23,Clothing,4,62.59,250.36
+1203,Bob Jones,53,Female,New York,2024-06-16,Home,2,135.84,271.68
+1236,Carla Diaz,65,Male,Paris,2024-08-01,Home,5,140.77,703.85
+1586,Dan Lee,30,Female,London,2024-12-13,Home,3,110.64,331.92
+1178,Bob Jones,66,Female,Paris,2024-01-21,Sports,3,119.71,359.13
+1444,Henry Ford,36,Female,New York,2024-09-16,Books,3,24.26,72.78
+1355,Dan Lee,62,Female,London,2024-06-27,Sports,3,72.43,217.29
+1141,Dan Lee,41,Male,New York,2024-04-02,Clothing,5,31.3,156.5
+1060,Bob Jones,21,Female,London,2024-09-27,Sports,4,168.65,674.6
+1522,Grace Kim,53,Female,New York,2024-05-03,Electronics,3,312.12,936.36
+1317,Dan Lee,42,Female,Berlin,2024-07-16,Home,2,99.69,199.38
+1448,Eva Brown,64,Female,New York,2024-02-26,Books,3,32.98,98.94
+1182,Frank Wu,27,Female,New York,2024-01-20,Books,3,26.83,80.49
+1295,Grace Kim,26,Male,Paris,2024-10-11,Books,2,16.9,33.8
+1131,Dan Lee,56,Female,London,2024-06-24,Books,1,32.71,32.71
+1058,Dan Lee,31,Female,Paris,2024-07-10,Home,1,133.2,133.2
+1589,Henry Ford,63,Female,London,2024-11-14,Sports,2,127.95,255.9
+1469,Grace Kim,45,Female,New York,2024-12-22,Sports,3,117.32,351.96
+1394,Carla Diaz,37,Male,Paris,2024-08-27,Home,1,229.08,229.08
+1232,Frank Wu,36,Female,New York,2024-02-03,Electronics,4,363.31,1453.24
+1343,Eva Brown,46,Female,Paris,2024-08-10,Books,4,15.51,62.04
+1246,Grace Kim,58,Female,Paris,2024-06-14,Home,3,110.29,330.87
+1053,Carla Diaz,21,Female,New York,2024-02-28,Books,3,26.32,78.96
+1136,Eva Brown,45,Male,New York,2024-05-15,Home,1,92.63499999999999,92.64
+1312,Henry Ford,69,Female,New York,2024-11-29,Electronics,1,683.4,683.4
+1280,Alice Smith,34,Male,New York,2024-10-28,Clothing,5,67.38,336.9
+1331,Grace Kim,38,Male,Paris,2024-12-22,Clothing,4,101.37,405.48
+1272,Frank Wu,27,Female,London,2024-05-26,Electronics,4,415.41,1661.64
+1292,Bob Jones,20,Female,New York,2024-10-20,Sports,4,65.74,262.96
+1244,Frank Wu,60,Female,Paris,2024-04-11,Home,3,52.57,157.71
+1399,Frank Wu,67,Male,Berlin,2024-03-02,Clothing,5,46.44,232.2
+1066,Grace Kim,42,Male,London,2024-02-10,Sports,4,142.76,571.04
+1314,Dan Lee,30,Female,Paris,2024-09-27,Clothing,2,45.26,90.52
+1052,Grace Kim,23,Female,London,2024-06-14,Clothing,2,74.32,148.64
+1597,Eva Brown,38,Female,London,2024-04-15,Home,1,66.48,66.48
+1524,Carla Diaz,65,Female,London,2024-09-29,Clothing,3,102.81,308.43
+1117,Frank Wu,32,Female,New York,2024-06-28,Electronics,1,577.22,577.22
+1028,Bob Jones,65,Male,London,2024-08-12,Books,3,28.25,84.75
+1294,Bob Jones,41,Female,New York,2024-02-29,Books,2,8.23,16.46
+1414,Eva Brown,59,Female,New York,2024-02-12,Electronics,1,583.17,583.17
+1180,Bob Jones,64,Female,London,2024-08-28,Sports,3,82.45,247.35
+1193,Bob Jones,46,Female,New York,2024-08-21,Clothing,1,48.2,48.2
+1103,Dan Lee,55,Female,New York,2024-03-31,Electronics,5,210.82,1054.1
+1020,Carla Diaz,46,Female,New York,2024-04-24,Books,1,37.32,37.32
+1137,Dan Lee,45,Female,Paris,2024-07-21,Electronics,3,427.49,1282.47
+1110,Eva Brown,67,Male,Berlin,2024-01-28,Clothing,1,84.9,84.9
+1520,Grace Kim,34,Male,New York,2024-02-06,Clothing,4,20.3,81.2
+1479,Grace Kim,28,Male,London,2024-09-02,Electronics,4,620.52,2482.08
+1155,Grace Kim,28,Female,Paris,2024-05-26,Home,1,62.21,62.21
+1112,Alice Smith,19,Female,London,2024-01-02,Books,2,10.89,21.78
+1543,Grace Kim,41,Female,Paris,2024-09-26,Electronics,4,374.38,1497.52
+1275,Henry Ford,37,Male,New York,2024-05-28,Books,5,24.15,120.75
+1342,Alice Smith,52,Female,Paris,2024-12-17,Home,3,31.26,93.78
+1007,Dan Lee,45,Female,Paris,2024-06-24,Home,3,167.1,501.3
+1445,Frank Wu,29,Male,Paris,2024-10-30,Home,5,132.59,662.95
+1198,Henry Ford,53,Female,New York,2024-04-12,Clothing,1,52.87,52.87
+1467,Carla Diaz,50,Female,New York,2024-09-22,Books,3,9.0,27.0
+1167,Carla Diaz,35,Male,Paris,2024-06-20,Electronics,2,667.33,1334.66
+1159,Grace Kim,67,Male,New York,2024-03-09,Home,4,166.37,665.48
+1459,Dan Lee,30,Female,London,2024-12-28,Electronics,5,403.42,2017.1
+1384,Grace Kim,45,Female,New York,2024-08-19,Electronics,3,499.0,1497.0
+1591,Carla Diaz,45,Female,Berlin,2024-03-11,Sports,3,172.56,517.68
+1024,Carla Diaz,43,Male,London,2024-10-09,Home,5,92.63499999999999,463.17
+1038,Carla Diaz,62,Male,London,2024-03-22,Clothing,4,23.87,95.48
+1304,Alice Smith,23,Male,London,2024-11-13,Books,1,38.82,38.82
+1502,Carla Diaz,27,Male,London,2024-07-27,Sports,3,161.85,485.55
+1150,Frank Wu,35,Female,New York,2024-11-30,Sports,4,92.63499999999999,370.54
+1041,Carla Diaz,24,Female,London,2024-02-05,Home,3,240.54,721.62
+1552,Henry Ford,24,Male,New York,2024-09-17,Sports,2,156.73,313.46
+1094,Henry Ford,43,Female,London,2024-02-18,Sports,4,17.03,68.12
+1456,Grace Kim,21,Female,London,2024-10-17,Electronics,3,331.9,995.7
+1436,Carla Diaz,47,Female,Paris,2024-04-01,Books,5,14.62,73.1
+1023,Bob Jones,68,Male,New York,2024-11-15,Sports,3,103.35,310.05
+1012,Alice Smith,45,Female,Paris,2024-09-02,Home,3,73.49,220.47
+1590,Alice Smith,27,Male,New York,2024-06-14,Sports,5,71.01,355.05
+1549,Frank Wu,48,Female,Paris,2024-07-03,Home,4,241.16,964.64
+1160,Alice Smith,37,Female,New York,2024-11-02,Sports,2,92.63499999999999,185.27
+1200,Henry Ford,28,Male,Berlin,2024-11-16,Clothing,4,92.35,369.4
+1173,Carla Diaz,58,Female,New York,2024-05-04,Home,2,50.84,101.68
+1100,Carla Diaz,35,Female,New York,2024-07-14,Sports,1,64.82,64.82
+1258,Eva Brown,45,Female,Paris,2024-05-23,Electronics,4,472.54,1890.16
+1231,Bob Jones,61,Female,Paris,2024-03-05,Sports,3,131.39,394.17
+1575,Frank Wu,52,Female,London,2024-12-27,Clothing,1,92.63499999999999,92.64
+1015,Dan Lee,33,Female,New York,2024-02-10,Home,3,95.32,285.96
+1517,Henry Ford,23,Male,London,2024-06-08,Electronics,3,444.91,1334.73
+1188,Alice Smith,66,Female,New York,2024-03-17,Clothing,1,75.11,75.11
+1409,Dan Lee,19,Male,Berlin,2024-02-20,Electronics,5,411.94,2059.7
+1194,Frank Wu,51,Female,London,2024-10-02,Sports,3,144.93,434.79
+1356,Alice Smith,66,Male,Paris,2024-06-10,Electronics,1,619.34,619.34
+1514,Carla Diaz,39,Female,Paris,2024-03-23,Sports,1,35.94,35.94
+1076,Alice Smith,39,Male,London,2024-03-26,Clothing,3,113.29,339.87
+1185,Henry Ford,20,Female,Paris,2024-10-16,Books,1,21.39,21.39
+1073,Grace Kim,48,Male,Paris,2024-12-09,Electronics,2,322.94,645.88
+1147,Grace Kim,45,Male,Paris,2024-11-30,Clothing,1,79.21,79.21
+1320,Alice Smith,60,Female,Paris,2024-10-07,Clothing,3,96.62,289.86
+1309,Henry Ford,32,Female,New York,2024-04-13,Electronics,5,392.05,1960.25
+1562,Dan Lee,48,Female,London,2024-12-17,Books,4,33.05,132.2
+1204,Carla Diaz,58,Female,New York,2024-10-18,Books,5,24.65,123.25
+1388,Carla Diaz,60,Female,New York,2024-06-17,Sports,1,92.63499999999999,92.64
+1468,Eva Brown,54,Female,London,2024-02-13,Electronics,1,210.85,210.85
+1276,Alice Smith,35,Female,New York,2024-06-18,Books,3,92.63499999999999,277.9
+1352,Alice Smith,45,Male,New York,2024-11-08,Clothing,3,85.52,256.56
+1334,Alice Smith,55,Female,New York,2024-06-09,Books,4,9.56,38.24
+1377,Eva Brown,41,Female,New York,2024-06-24,Home,1,134.29,134.29
+1447,Eva Brown,66,Female,Paris,2024-03-05,Sports,2,86.17,172.34
+1327,Bob Jones,44,Male,Paris,2024-08-16,Electronics,3,196.65,589.95
+1416,Eva Brown,58,Male,New York,2024-06-13,Sports,3,107.76,323.28
+1240,Bob Jones,45,Female,Paris,2024-04-15,Electronics,5,694.02,3470.1
+1069,Alice Smith,54,Male,Berlin,2024-10-08,Books,3,36.75,110.25
+1014,Dan Lee,56,Male,London,2024-11-18,Home,3,104.27,312.81
+1267,Frank Wu,18,Female,New York,2024-11-27,Clothing,3,92.63499999999999,277.9
+1443,Bob Jones,45,Male,Paris,2024-02-10,Books,4,8.04,32.16
+1449,Dan Lee,47,Male,New York,2024-06-03,Clothing,5,103.33,516.65
+1078,Bob Jones,52,Male,Paris,2024-09-22,Books,4,92.63499999999999,370.54
+1202,Grace Kim,45,Male,New York,2024-05-25,Books,2,37.47,74.94
+1381,Grace Kim,57,Male,New York,2024-03-28,Sports,1,48.33,48.33
+1223,Grace Kim,39,Female,New York,2024-08-06,Clothing,1,92.63499999999999,92.64
+1192,Frank Wu,69,Female,New York,2024-04-14,Home,4,170.06,680.24
+1402,Bob Jones,61,Female,London,2024-01-15,Clothing,3,31.32,93.96
+1340,Eva Brown,45,Female,London,2024-09-12,Home,4,190.07,760.28
+1452,Dan Lee,55,Male,New York,2024-03-29,Books,1,15.76,15.76
+1583,Carla Diaz,37,Female,Paris,2024-05-23,Electronics,4,407.2,1628.8
+1403,Henry Ford,52,Female,Berlin,2024-05-02,Sports,4,159.26,637.04
+1010,Carla Diaz,28,Male,London,2024-03-30,Books,3,23.29,69.87
+1481,Bob Jones,45,Female,Berlin,2024-05-08,Sports,2,166.6,333.2
+1037,Bob Jones,21,Female,London,2024-04-21,Sports,4,134.74,538.96
+1572,Frank Wu,45,Female,New York,2024-01-23,Clothing,4,117.82,471.28
+1547,Henry Ford,42,Female,Paris,2024-10-01,Books,2,29.84,59.68
+1025,Frank Wu,39,Male,Paris,2024-11-25,Home,5,170.1,850.5
+1216,Alice Smith,20,Female,London,2024-05-31,Electronics,3,322.64,967.92
+1546,Dan Lee,43,Male,Paris,2024-04-29,Books,3,20.64,61.92
+1166,Frank Wu,29,Male,London,2024-05-15,Clothing,2,83.17,166.34
+1578,Henry Ford,43,Male,New York,2024-12-26,Sports,5,115.44,577.2
+1177,Carla Diaz,23,Female,London,2024-05-04,Electronics,5,486.04,2430.2
+1247,Alice Smith,50,Female,London,2024-07-12,Books,5,10.56,52.8
+1284,Dan Lee,45,Female,London,2024-02-17,Books,4,37.35,149.4
+1531,Alice Smith,59,Female,New York,2024-11-10,Electronics,2,454.45,908.9
+1419,Carla Diaz,36,Female,New York,2024-03-11,Books,3,38.57,115.71
+1492,Carla Diaz,35,Male,London,2024-03-26,Home,1,93.06,93.06
+1503,Bob Jones,39,Female,London,2024-11-16,Sports,3,112.98,338.94
+1490,Alice Smith,61,Female,Berlin,2024-05-24,Sports,3,50.7,152.1
+1273,Dan Lee,45,Female,Paris,2024-05-04,Sports,3,141.82,425.46
+1417,Henry Ford,52,Female,New York,2024-12-30,Electronics,5,92.63499999999999,463.17
+1054,Grace Kim,20,Male,Paris,2024-02-08,Books,3,22.91,68.73
+1368,Dan Lee,36,Female,New York,2024-12-07,Electronics,3,313.0,939.0
+1114,Carla Diaz,45,Female,New York,2024-04-29,Books,1,8.93,8.93
+1395,Grace Kim,39,Male,New York,2024-10-24,Sports,4,102.37,409.48
+1558,Bob Jones,45,Female,Berlin,2024-08-16,Home,4,107.18,428.72
+1151,Bob Jones,45,Male,Berlin,2024-08-09,Clothing,2,107.84,215.68
+1179,Bob Jones,45,Male,Berlin,2024-10-16,Books,5,21.18,105.9
+1154,Alice Smith,37,Female,New York,2024-12-20,Books,4,10.94,43.76
+1256,Bob Jones,67,Female,Paris,2024-09-25,Home,4,87.17,348.68
+1431,Grace Kim,43,Male,Paris,2024-01-26,Home,2,31.72,63.44
+1338,Grace Kim,22,Male,Paris,2024-07-15,Clothing,5,96.24,481.2
+1470,Bob Jones,27,Female,New York,2024-04-26,Home,2,75.58,151.16
+1175,Eva Brown,59,Female,London,2024-01-19,Books,3,17.75,53.25
+1029,Henry Ford,43,Female,New York,2024-12-24,Books,2,17.22,34.44
+1126,Grace Kim,45,Female,New York,2024-05-11,Electronics,5,92.63499999999999,463.17
+1070,Dan Lee,27,Female,New York,2024-01-16,Home,1,195.38,195.38
+1497,Dan Lee,52,Female,Berlin,2024-06-28,Clothing,3,32.38,97.14
+1553,Frank Wu,42,Female,London,2024-06-18,Clothing,4,110.82,443.28
+1519,Henry Ford,29,Female,New York,2024-10-09,Books,2,16.74,33.48
+1215,Carla Diaz,66,Female,Paris,2024-04-26,Clothing,1,33.16,33.16
+1286,Bob Jones,61,Female,New York,2024-09-24,Electronics,4,247.63,990.52
+1335,Bob Jones,23,Female,New York,2024-09-07,Sports,4,33.03,132.12
+1230,Grace Kim,34,Female,London,2024-07-21,Books,2,30.01,60.02
+1196,Bob Jones,56,Female,Paris,2024-07-20,Clothing,4,60.3,241.2
+1266,Frank Wu,45,Male,Paris,2024-09-21,Books,2,32.41,64.82
+1496,Alice Smith,18,Male,Paris,2024-03-02,Electronics,4,160.47,641.88
+1017,Bob Jones,35,Male,New York,2024-04-02,Electronics,3,527.16,1581.48
+1354,Henry Ford,59,Male,Paris,2024-09-14,Sports,3,155.71,467.13
+1027,Frank Wu,45,Male,Paris,2024-12-25,Sports,2,102.9,205.8
+1330,Eva Brown,34,Female,New York,2024-09-19,Books,1,37.59,37.59
+1277,Bob Jones,18,Male,Paris,2024-06-09,Home,2,155.04,310.08
+1119,Grace Kim,45,Female,New York,2024-07-12,Electronics,3,650.85,1952.55
+1228,Frank Wu,54,Female,New York,2024-07-10,Books,3,32.71,98.13
+1169,Eva Brown,60,Male,Paris,2024-02-25,Electronics,2,429.59,859.18
+1285,Dan Lee,35,Female,New York,2024-08-27,Sports,1,119.09,119.09
+1214,Eva Brown,52,Female,Paris,2024-08-24,Home,4,96.85,387.4
+1397,Henry Ford,67,Female,New York,2024-11-10,Electronics,4,474.91,1899.64
+1594,Bob Jones,46,Male,Berlin,2024-06-21,Clothing,1,94.12,94.12
+1512,Bob Jones,28,Female,New York,2024-07-05,Sports,3,178.86,536.58
+1387,Frank Wu,24,Female,Paris,2024-04-04,Sports,1,173.27,173.27
+1106,Grace Kim,32,Male,New York,2024-04-18,Home,4,85.3,341.2
+1371,Bob Jones,41,Male,New York,2024-09-28,Home,3,152.22,456.66
+1415,Dan Lee,30,Male,New York,2024-05-22,Home,4,62.59,250.36
+1430,Bob Jones,25,Male,Paris,2024-08-18,Electronics,2,92.63499999999999,185.27
+1259,Dan Lee,50,Female,Berlin,2024-05-27,Books,5,23.79,118.95
+1042,Carla Diaz,23,Female,London,2024-10-25,Home,5,204.2,1021.0
+1163,Carla Diaz,30,Male,New York,2024-10-25,Books,3,17.64,52.92
+1554,Dan Lee,58,Female,London,2024-04-22,Sports,3,50.0,150.0
+1170,Frank Wu,62,Female,London,2024-10-29,Electronics,2,372.22,744.44
+1254,Bob Jones,20,Male,New York,2024-09-17,Home,4,30.27,121.08
+1530,Dan Lee,47,Female,New York,2024-01-24,Books,1,27.54,27.54
+1090,Carla Diaz,61,Female,New York,2024-03-08,Books,2,28.39,56.78
+1363,Grace Kim,61,Male,New York,2024-11-29,Sports,2,28.99,57.98
+1306,Carla Diaz,57,Male,Paris,2024-10-06,Clothing,3,106.01,318.03
+1035,Henry Ford,45,Female,New York,2024-02-20,Electronics,3,487.91,1463.73
+1576,Frank Wu,26,Female,New York,2024-11-07,Sports,1,80.11,80.11
+1369,Alice Smith,18,Female,New York,2024-12-23,Home,3,113.83,341.49
+1525,Bob Jones,38,Male,New York,2024-10-27,Clothing,5,16.91,84.55
+1269,Henry Ford,67,Female,Paris,2024-06-02,Books,3,25.26,75.78
+1425,Henry Ford,43,Female,Paris,2024-08-14,Electronics,3,172.59,517.77
+1118,Alice Smith,61,Female,London,2024-06-13,Clothing,1,35.81,35.81
+1162,Bob Jones,69,Female,New York,2024-02-22,Books,3,38.27,114.81
+1465,Frank Wu,64,Female,London,2024-02-04,Sports,3,16.53,49.59
+1486,Carla Diaz,32,Female,Paris,2024-11-26,Clothing,1,100.38,100.38
+1501,Frank Wu,69,Male,New York,2024-02-22,Home,2,92.95,185.9
+1006,Eva Brown,42,Female,New York,2024-01-04,Electronics,2,361.8,723.6
+1305,Carla Diaz,51,Female,London,2024-04-10,Electronics,3,580.1,1740.3
+1556,Frank Wu,54,Male,New York,2024-05-30,Home,5,188.7,943.5
+1499,Dan Lee,62,Female,London,2024-11-21,Books,3,92.63499999999999,277.9
+1291,Dan Lee,37,Female,Paris,2024-04-29,Clothing,2,62.06,124.12
+1174,Henry Ford,59,Female,London,2024-07-23,Home,1,83.96,83.96
+1536,Alice Smith,56,Male,London,2024-06-14,Books,2,32.27,64.54
+1099,Carla Diaz,48,Male,New York,2024-05-03,Electronics,2,393.27,786.54
+1229,Grace Kim,45,Female,London,2024-05-05,Electronics,3,321.03,963.09
+1264,Eva Brown,44,Female,London,2024-08-03,Sports,4,122.11,488.44
+1372,Carla Diaz,63,Male,Berlin,2024-12-29,Books,2,39.92,79.84
+1541,Eva Brown,49,Female,Berlin,2024-05-23,Electronics,5,587.82,2939.1
+1533,Henry Ford,64,Male,New York,2024-10-27,Clothing,3,86.15,258.45
+1217,Dan Lee,45,Male,New York,2024-09-22,Electronics,1,558.48,558.48
+1560,Alice Smith,52,Male,New York,2024-08-24,Books,1,31.73,31.73
+1353,Frank Wu,54,Male,Berlin,2024-07-17,Books,4,15.61,62.44
+1494,Henry Ford,65,Female,New York,2024-09-17,Clothing,1,18.13,18.13
+1413,Alice Smith,49,Female,New York,2024-02-12,Electronics,4,646.4,2585.6
+1098,Bob Jones,57,Female,New York,2024-09-29,Home,5,125.47,627.35
+1189,Grace Kim,63,Female,London,2024-12-03,Clothing,2,74.41,148.82
+1332,Bob Jones,42,Female,New York,2024-07-08,Clothing,4,18.88,75.52
+1303,Carla Diaz,43,Female,Paris,2024-02-17,Sports,4,133.91,535.64
+1260,Dan Lee,45,Male,New York,2024-11-22,Home,2,39.35,78.7
+1144,Grace Kim,19,Male,New York,2024-05-18,Sports,5,59.68,298.4
+1568,Grace Kim,52,Male,New York,2024-02-29,Home,3,42.97,128.91
+1463,Alice Smith,43,Male,New York,2024-07-07,Books,4,12.42,49.68
+1186,Grace Kim,68,Male,London,2024-10-28,Electronics,5,410.77,2053.85
+1283,Alice Smith,40,Female,New York,2024-08-31,Books,4,20.75,83.0
+1011,Eva Brown,30,Female,Paris,2024-08-26,Sports,4,83.79,335.16
+1513,Bob Jones,38,Male,New York,2024-01-20,Sports,5,111.47,557.35
+1422,Eva Brown,65,Female,New York,2024-01-10,Home,4,28.24,112.96
+1181,Bob Jones,67,Female,Berlin,2024-08-15,Electronics,5,269.7,1348.5
+1471,Frank Wu,40,Female,New York,2024-04-26,Sports,1,108.92,108.92
+1127,Henry Ford,48,Male,Berlin,2024-02-15,Home,3,215.36,646.08
+1529,Alice Smith,43,Male,London,2024-02-23,Sports,4,56.85,227.4
+1057,Bob Jones,50,Male,Paris,2024-08-01,Electronics,1,589.58,589.58
+1033,Alice Smith,30,Female,Berlin,2024-01-27,Books,3,35.54,106.62
+1237,Henry Ford,46,Female,New York,2024-01-15,Books,1,13.24,13.24
+1282,Henry Ford,18,Male,Paris,2024-04-28,Home,3,44.15,132.45
+1074,Eva Brown,27,Male,Berlin,2024-05-29,Home,2,56.25,112.5
+1362,Alice Smith,32,Male,Paris,2024-05-27,Clothing,2,34.7,69.4
+1243,Eva Brown,47,Female,London,2024-09-30,Home,1,247.77,247.77
+1091,Dan Lee,45,Female,Berlin,2024-03-30,Sports,5,35.12,175.6
+1092,Frank Wu,21,Male,New York,2024-11-16,Sports,2,112.06,224.12
+1337,Alice Smith,52,Female,New York,2024-01-09,Clothing,5,89.89,449.45
+1407,Frank Wu,57,Female,Paris,2024-11-02,Electronics,2,581.1,1162.2
+1279,Frank Wu,44,Male,London,2024-02-15,Electronics,3,337.32,1011.96
+1156,Grace Kim,26,Male,New York,2024-07-11,Electronics,4,689.01,2756.04
+1301,Carla Diaz,46,Male,New York,2024-08-31,Sports,5,140.64,703.2
+1508,Alice Smith,21,Female,Paris,2024-04-22,Clothing,4,68.27,273.08
+1085,Carla Diaz,28,Male,Paris,2024-03-06,Home,1,246.93,246.93
+1190,Alice Smith,51,Female,Berlin,2024-07-12,Home,2,181.46,362.92
+1039,Bob Jones,66,Female,New York,2024-07-20,Home,3,235.27,705.81
+1111,Grace Kim,45,Female,London,2024-11-20,Home,3,169.53,508.59
+1571,Grace Kim,56,Male,Paris,2024-10-27,Books,5,8.74,43.7
+1252,Bob Jones,68,Male,New York,2024-05-11,Electronics,3,249.51,748.53
+1310,Eva Brown,46,Male,London,2024-04-12,Home,2,147.21,294.42
+1004,Frank Wu,53,Male,London,2024-02-16,Books,4,35.44,141.76
+1518,Frank Wu,57,Female,New York,2024-11-06,Books,2,27.9,55.8
+1104,Frank Wu,45,Female,Paris,2024-05-01,Home,4,249.32,997.28
+1504,Alice Smith,30,Female,London,2024-11-30,Clothing,2,28.23,56.46
+1233,Alice Smith,25,Male,New York,2024-09-04,Home,2,167.4,334.8
+1164,Bob Jones,67,Male,New York,2024-10-25,Books,1,26.5,26.5
+1105,Carla Diaz,51,Female,Paris,2024-03-30,Home,5,222.22,1111.1
+1341,Carla Diaz,45,Female,Berlin,2024-11-15,Clothing,2,99.09,198.18
+1241,Bob Jones,26,Male,New York,2024-11-21,Books,2,25.79,51.58
+1521,Carla Diaz,61,Female,New York,2024-01-13,Electronics,3,92.63499999999999,277.9
+1595,Carla Diaz,19,Male,London,2024-08-27,Sports,5,160.37,801.85
+1253,Carla Diaz,65,Female,London,2024-12-11,Clothing,4,110.25,441.0
+1408,Frank Wu,43,Female,London,2024-03-26,Sports,2,92.63499999999999,185.27
+1262,Frank Wu,50,Female,New York,2024-02-24,Clothing,3,103.58,310.74
+1208,Dan Lee,55,Female,London,2024-10-14,Clothing,3,66.88,200.64
+1475,Bob Jones,28,Male,New York,2024-06-04,Home,3,216.27,648.81
+1412,Bob Jones,42,Male,New York,2024-08-08,Clothing,5,92.63499999999999,463.17
+1460,Dan Lee,69,Female,New York,2024-01-09,Home,4,183.66,734.64
+1082,Carla Diaz,43,Male,New York,2024-03-05,Electronics,5,579.17,2895.85
+1574,Henry Ford,45,Female,New York,2024-09-12,Electronics,5,545.62,2728.1
+1071,Dan Lee,67,Female,Paris,2024-03-16,Electronics,3,298.79,896.37
+1472,Frank Wu,45,Female,London,2024-04-18,Books,1,26.89,26.89
+1289,Bob Jones,45,Male,Paris,2024-01-08,Books,3,8.79,26.37
+1087,Bob Jones,46,Female,London,2024-05-30,Clothing,4,114.88,459.52
+1064,Frank Wu,63,Male,London,2024-10-31,Books,3,29.05,87.15
+1270,Bob Jones,65,Male,London,2024-03-10,Clothing,1,50.54,50.54
+1093,Bob Jones,20,Male,London,2024-09-16,Clothing,2,87.04,174.08
+1458,Grace Kim,52,Male,London,2024-01-01,Sports,3,23.01,69.03
+1274,Bob Jones,25,Female,London,2024-09-11,Books,3,35.26,105.78
+1213,Henry Ford,66,Male,London,2024-12-02,Books,3,16.98,50.94
+1143,Eva Brown,62,Female,Berlin,2024-01-11,Books,1,92.63499999999999,92.64
+1573,Carla Diaz,30,Male,Paris,2024-05-25,Electronics,1,357.43,357.43
+1557,Carla Diaz,56,Female,London,2024-03-21,Sports,4,159.93,639.72
+1153,Grace Kim,45,Female,London,2024-06-18,Clothing,1,33.18,33.18
+1101,Bob Jones,52,Male,Berlin,2024-07-12,Electronics,3,655.14,1965.42
+1476,Eva Brown,30,Female,New York,2024-03-17,Sports,4,117.15,468.6
+1410,Alice Smith,23,Female,Paris,2024-09-12,Electronics,3,697.09,2091.27
+1318,Carla Diaz,63,Male,London,2024-07-18,Sports,3,35.44,106.32
+1376,Eva Brown,28,Male,New York,2024-02-08,Home,1,230.52,230.52
+1308,Alice Smith,34,Female,London,2024-04-12,Clothing,4,91.9,367.6
+1579,Alice Smith,44,Female,London,2024-08-26,Electronics,3,469.54,1408.62
+1400,Grace Kim,40,Male,London,2024-05-13,Sports,3,54.83,164.49
+1005,Carla Diaz,57,Male,New York,2024-01-17,Sports,4,91.36,365.44
+1044,Bob Jones,57,Male,Paris,2024-09-28,Electronics,1,580.44,580.44
+1113,Henry Ford,49,Female,Paris,2024-10-10,Books,5,36.71,183.55
+1390,Carla Diaz,56,Female,Paris,2024-05-12,Home,2,85.44,170.88
+1220,Frank Wu,63,Male,New York,2024-04-20,Electronics,2,621.1,1242.2
+1140,Dan Lee,55,Male,London,2024-03-01,Sports,4,155.44,621.76
+1357,Henry Ford,24,Female,New York,2024-08-18,Sports,1,64.33,64.33
+1210,Henry Ford,61,Male,New York,2024-06-30,Clothing,3,22.57,67.71
+1133,Alice Smith,61,Female,London,2024-12-13,Books,3,34.82,104.46
+1261,Dan Lee,50,Male,New York,2024-07-24,Electronics,3,284.02,852.06
+1278,Henry Ford,59,Female,New York,2024-04-04,Electronics,1,617.65,617.65
+1386,Grace Kim,62,Female,London,2024-04-21,Electronics,3,381.21,1143.63
+1079,Dan Lee,57,Female,Paris,2024-02-06,Home,1,187.83,187.83
+1000,Grace Kim,49,Female,Paris,2024-01-21,Electronics,3,92.63499999999999,277.9
+1411,Henry Ford,25,Female,London,2024-10-09,Clothing,1,85.83,85.83
+1115,Dan Lee,23,Female,New York,2024-07-07,Books,5,15.71,78.55
+1515,Henry Ford,47,Male,London,2024-01-01,Electronics,1,643.52,643.52
+1373,Eva Brown,35,Female,Paris,2024-10-06,Clothing,3,88.59,265.77
+1206,Henry Ford,43,Female,Paris,2024-06-07,Home,3,92.32,276.96
+1380,Grace Kim,62,Male,London,2024-09-12,Electronics,3,186.94,560.82
+1581,Grace Kim,67,Female,London,2024-06-12,Sports,1,114.29,114.29
+1184,Frank Wu,28,Female,New York,2024-08-20,Books,4,9.15,36.6
+1551,Eva Brown,44,Female,Paris,2024-09-30,Clothing,3,35.95,107.85
+1358,Bob Jones,45,Female,New York,2024-10-23,Electronics,5,474.68,2373.4
+1526,Bob Jones,47,Female,New York,2024-05-04,Sports,2,113.29,226.58
+1489,Frank Wu,33,Male,New York,2024-06-01,Home,3,158.17,474.51
+1346,Eva Brown,42,Female,London,2024-03-05,Sports,5,15.74,78.7
+1339,Grace Kim,69,Male,Paris,2024-05-26,Sports,1,157.8,157.8
+1423,Dan Lee,60,Male,Paris,2024-06-03,Books,5,38.71,193.55
+1242,Henry Ford,38,Female,Berlin,2024-09-29,Electronics,3,611.49,1834.47
+1420,Eva Brown,33,Female,Paris,2024-12-11,Sports,2,99.6,199.2
+1149,Alice Smith,37,Female,Berlin,2024-04-27,Electronics,1,488.97,488.97
+1009,Grace Kim,59,Female,New York,2024-12-16,Electronics,2,92.63499999999999,185.27
+1293,Carla Diaz,68,Male,Paris,2024-03-13,Clothing,2,77.84,155.68
+1328,Dan Lee,53,Male,New York,2024-01-24,Electronics,2,455.5,911.0
+1045,Henry Ford,57,Male,London,2024-08-13,Sports,2,146.19,292.38
+1580,Henry Ford,26,Female,London,2024-03-06,Electronics,2,375.03,750.06
+1095,Grace Kim,39,Male,Paris,2024-11-06,Clothing,1,62.7,62.7
+1022,Dan Lee,65,Male,London,2024-04-20,Electronics,1,92.63499999999999,92.64
+1036,Grace Kim,25,Male,Paris,2024-12-09,Sports,2,30.69,61.38
+1048,Bob Jones,25,Male,New York,2024-07-09,Home,1,155.72,155.72
+1298,Eva Brown,66,Female,London,2024-10-01,Clothing,1,118.09,118.09
+1464,Carla Diaz,61,Female,New York,2024-02-08,Electronics,1,655.35,655.35
+1290,Dan Lee,64,Male,London,2024-11-19,Sports,3,168.03,504.09
+1313,Bob Jones,19,Female,New York,2024-11-28,Clothing,2,118.38,236.76
+1421,Grace Kim,64,Female,London,2024-02-26,Home,2,119.58,239.16
+1145,Eva Brown,55,Female,Paris,2024-02-13,Sports,3,132.13,396.39
+1122,Dan Lee,46,Female,Paris,2024-10-28,Home,3,21.25,63.75
+1516,Bob Jones,45,Female,New York,2024-02-01,Sports,4,160.26,641.04
+1361,Frank Wu,19,Male,Berlin,2024-03-30,Sports,2,161.28,322.56
+1336,Eva Brown,41,Male,London,2024-07-17,Sports,5,126.43,632.15
+1135,Alice Smith,48,Female,New York,2024-02-29,Clothing,1,36.19,36.19
+1535,Alice Smith,21,Male,Paris,2024-07-15,Electronics,3,461.82,1385.46
+1315,Grace Kim,31,Female,New York,2024-03-14,Home,5,188.76,943.8
+1197,Grace Kim,60,Female,New York,2024-12-28,Electronics,2,494.31,988.62
+1427,Henry Ford,58,Female,Paris,2024-12-06,Sports,3,25.81,77.43
+1257,Bob Jones,61,Female,Paris,2024-09-26,Electronics,3,419.61,1258.83
+1139,Dan Lee,35,Female,New York,2024-03-16,Books,1,28.16,28.16
+1367,Carla Diaz,45,Male,New York,2024-11-03,Clothing,2,119.87,239.74
+1509,Carla Diaz,41,Female,New York,2024-07-13,Clothing,3,119.14,357.42
+1567,Bob Jones,48,Female,New York,2024-03-05,Clothing,3,98.8,296.4
+1008,Frank Wu,38,Female,New York,2024-02-02,Clothing,1,42.98,42.98
+1097,Carla Diaz,48,Female,Berlin,2024-11-15,Home,5,87.93,439.65
+1348,Alice Smith,37,Female,London,2024-11-05,Electronics,1,522.51,522.51
+1598,Carla Diaz,66,Female,New York,2024-04-01,Home,5,62.73,313.65
+1021,Bob Jones,45,Female,London,2024-10-06,Clothing,3,65.5,196.5
+1482,Grace Kim,45,Female,Berlin,2024-04-28,Clothing,1,62.72,62.72
+1405,Carla Diaz,41,Female,Berlin,2024-10-18,Books,3,25.97,77.91
+1478,Dan Lee,37,Female,Paris,2024-05-14,Home,1,197.78,197.78
+1491,Frank Wu,63,Male,London,2024-04-27,Sports,2,83.31,166.62
+1046,Frank Wu,61,Female,New York,2024-05-26,Books,2,38.27,76.54
+1364,Bob Jones,36,Male,Paris,2024-12-14,Electronics,2,338.06,676.12
+1296,Bob Jones,50,Male,New York,2024-12-09,Sports,2,131.0,262.0
+1049,Frank Wu,64,Male,London,2024-03-01,Home,2,41.86,83.72
+1487,Henry Ford,62,Male,London,2024-10-26,Books,2,18.19,36.38
+1224,Eva Brown,63,Male,New York,2024-01-27,Home,1,47.52,47.52
+1219,Dan Lee,51,Male,Berlin,2024-06-17,Sports,4,151.48,605.92
+1588,Frank Wu,43,Female,New York,2024-12-14,Sports,5,41.87,209.35
+1063,Bob Jones,55,Male,New York,2024-05-15,Sports,3,29.47,88.41
+1245,Grace Kim,37,Male,London,2024-12-28,Electronics,2,396.54,793.08
+1442,Dan Lee,65,Female,London,2024-06-14,Electronics,3,624.52,1873.56
+1548,Carla Diaz,34,Female,London,2024-03-14,Books,4,12.78,51.12
+1539,Grace Kim,42,Male,New York,2024-02-03,Electronics,3,433.02,1299.06
+1187,Dan Lee,66,Female,Berlin,2024-03-18,Clothing,2,38.69,77.38
+1406,Carla Diaz,54,Male,Paris,2024-02-19,Books,3,33.34,100.02
+1148,Henry Ford,31,Male,New York,2024-01-01,Sports,3,23.99,71.97
+1026,Alice Smith,28,Female,London,2024-02-08,Books,2,33.74,67.48
+1461,Henry Ford,22,Female,New York,2024-12-30,Electronics,4,92.63499999999999,370.54
+1059,Carla Diaz,57,Female,London,2024-09-25,Home,5,157.91,789.55
+1326,Bob Jones,30,Female,New York,2024-04-22,Clothing,3,98.34,295.02
+1424,Eva Brown,45,Female,Berlin,2024-05-26,Books,5,11.3,56.5
+1477,Eva Brown,60,Male,London,2024-01-19,Electronics,4,239.51,958.04
+1043,Eva Brown,28,Female,Paris,2024-11-04,Clothing,5,77.34,386.7
+1528,Bob Jones,27,Male,Paris,2024-01-10,Sports,1,159.19,159.19
+1218,Henry Ford,45,Female,New York,2024-09-19,Books,2,8.47,16.94
+1577,Grace Kim,45,Male,New York,2024-02-20,Books,1,18.21,18.21
+1485,Alice Smith,47,Female,Berlin,2024-10-30,Clothing,1,52.96,52.96
+1125,Henry Ford,22,Male,New York,2024-02-18,Books,4,33.65,134.6
+1566,Dan Lee,22,Female,New York,2024-05-03,Clothing,2,105.89,211.78
+1061,Carla Diaz,61,Male,Paris,2024-04-18,Home,3,47.54,142.62
+1081,Grace Kim,69,Male,New York,2024-04-06,Books,3,37.96,113.88
+1324,Dan Lee,24,Male,Berlin,2024-09-29,Sports,4,176.36,705.44
+1385,Bob Jones,51,Female,London,2024-04-15,Electronics,5,338.81,1694.05
+1056,Grace Kim,45,Male,New York,2024-05-16,Books,1,32.45,32.45
+1019,Frank Wu,66,Female,Paris,2024-04-17,Books,5,38.36,191.8
+1446,Carla Diaz,48,Male,London,2024-07-29,Clothing,3,49.97,149.91
+1086,Bob Jones,53,Male,London,2024-08-25,Electronics,2,544.77,1089.54
+1316,Frank Wu,31,Male,Paris,2024-12-16,Home,1,192.5,192.5
+1034,Alice Smith,45,Female,New York,2024-05-29,Sports,5,36.8,184.0
+1138,Dan Lee,33,Female,New York,2024-12-16,Clothing,1,93.24,93.24
+1498,Alice Smith,26,Female,London,2024-03-22,Sports,1,134.66,134.66
+1538,Eva Brown,38,Female,London,2024-01-16,Books,4,21.42,85.68
+1555,Dan Lee,60,Female,London,2024-05-14,Books,5,23.03,115.15
+1096,Bob Jones,62,Female,Paris,2024-07-28,Clothing,5,101.67,508.35
+1083,Bob Jones,26,Female,Berlin,2024-11-04,Sports,1,94.1,94.1
+1474,Carla Diaz,49,Female,New York,2024-03-05,Home,1,21.09,21.09
+1366,Eva Brown,55,Male,Paris,2024-04-25,Books,1,33.84,33.84
+1401,Henry Ford,39,Male,Paris,2024-01-03,Home,2,94.17,188.34
+1392,Grace Kim,43,Male,New York,2024-04-14,Clothing,2,39.69,79.38
+1585,Bob Jones,63,Male,Paris,2024-11-15,Sports,3,77.24,231.72
+1271,Dan Lee,48,Female,Paris,2024-08-24,Electronics,2,614.46,1228.92
+1506,Grace Kim,38,Female,Berlin,2024-04-28,Books,3,30.18,90.54
+1047,Grace Kim,45,Male,London,2024-07-16,Sports,5,92.63499999999999,463.17
+1434,Bob Jones,37,Male,Paris,2024-08-02,Books,2,9.94,19.88
+1561,Bob Jones,59,Female,Paris,2024-10-01,Electronics,4,552.12,2208.48
+1207,Grace Kim,61,Female,Paris,2024-02-25,Sports,2,153.17,306.34
+1132,Grace Kim,45,Female,Berlin,2024-10-31,Electronics,3,533.97,1601.91
+1050,Grace Kim,66,Male,New York,2024-01-30,Home,2,161.72,323.44
+1238,Henry Ford,69,Male,Berlin,2024-12-26,Clothing,2,32.42,64.84
+1564,Grace Kim,32,Female,New York,2024-10-04,Sports,5,32.26,161.3
+1592,Henry Ford,59,Female,London,2024-08-13,Clothing,5,40.58,202.9
+1450,Dan Lee,25,Male,Paris,2024-07-03,Sports,4,57.96,231.84
+1031,Carla Diaz,45,Male,Paris,2024-12-13,Clothing,2,36.25,72.5
+1121,Henry Ford,63,Female,Paris,2024-07-14,Home,2,28.32,56.64
+1211,Carla Diaz,45,Male,Paris,2024-05-23,Home,1,213.66,213.66
+1351,Henry Ford,50,Male,New York,2024-04-27,Electronics,3,642.6,1927.8
+1454,Grace Kim,35,Male,London,2024-04-17,Books,5,29.86,149.3
+1302,Eva Brown,30,Female,New York,2024-03-03,Electronics,1,646.83,646.83
+1088,Bob Jones,35,Female,London,2024-01-23,Home,5,47.25,236.25
+1325,Grace Kim,56,Female,New York,2024-04-03,Clothing,1,58.22,58.22
+1323,Frank Wu,53,Female,Berlin,2024-08-10,Sports,4,91.72,366.88
+1255,Bob Jones,64,Male,New York,2024-05-13,Electronics,4,278.07,1112.28
+1570,Grace Kim,58,Female,Paris,2024-01-17,Sports,5,137.69,688.45
+1545,Frank Wu,45,Male,Paris,2024-04-03,Electronics,5,639.31,3196.55
+1550,Dan Lee,29,Male,London,2024-07-15,Sports,1,44.44,44.44
+1359,Eva Brown,66,Male,London,2024-05-01,Home,3,111.3,333.9
+1051,Bob Jones,55,Female,New York,2024-04-02,Electronics,3,244.21,732.63
+1102,Alice Smith,50,Male,London,2024-09-19,Sports,2,143.91,287.82
+1195,Bob Jones,29,Male,London,2024-01-01,Electronics,3,452.03,1356.09
+1124,Dan Lee,35,Female,New York,2024-05-11,Sports,1,114.98,114.98
+1587,Frank Wu,69,Female,London,2024-12-22,Electronics,5,222.11,1110.55
+1433,Carla Diaz,28,Male,London,2024-02-20,Electronics,3,361.48,1084.44
+1263,Grace Kim,51,Female,Berlin,2024-09-19,Sports,2,120.2,240.4
+1360,Henry Ford,37,Male,Paris,2024-10-22,Sports,1,60.35,60.35
+1075,Frank Wu,45,Female,New York,2024-02-14,Books,4,12.73,50.92
+1466,Eva Brown,46,Female,London,2024-09-06,Electronics,1,253.58,253.58
+1299,Grace Kim,33,Male,New York,2024-03-31,Electronics,4,491.2,1964.8
+1534,Alice Smith,49,Female,Berlin,2024-07-20,Books,5,31.22,156.1
+1584,Grace Kim,21,Male,Paris,2024-03-08,Books,5,14.3,71.5
+1493,Frank Wu,55,Male,London,2024-09-30,Home,1,37.96,37.96
+1527,Alice Smith,30,Female,London,2024-03-02,Electronics,3,277.2,831.6
+1168,Grace Kim,19,Female,Paris,2024-11-02,Clothing,1,30.59,30.59
